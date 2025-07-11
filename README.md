@@ -6,7 +6,7 @@
 </p>
 
 <h4 align="center">
-Back-end Developer | Java • Go • C++ | DevOps & Cloud | Open to Collaboration from Anywhere
+  Back-end Developer | Java • Go • C++ | DevOps & Cloud | Open to Collaboration from Anywhere
 </h4>
 
 ---
@@ -24,10 +24,9 @@ I specialize in scalable banking systems and distributed services using Microser
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📈 **Monitoring & Observability**: Prometheus, Grafana  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔐 **Other Expertise**: Distributed Systems, Cloud-Native Systems, Service Discovery, Load Balancing  
 
-
 > 💡 *"Code clean. Think big. Ship scalable."*
 
-&nbsp;
+<br>
 
 <table align="center">
   <tr>
@@ -36,19 +35,15 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" /><br>C++17</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br>Docker</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" /><br>Kubernetes</td>
-    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS</td>
-    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>mysql</td>
-    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" /><br>Nginx</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=spring" width="65" /><br>spring</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" /><br>AWS</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" /><br>MySQL</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" /><br>Nginx</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=spring" width="65" /><br>Spring</td>
   </tr>
   <tr>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=hibernate" width="65" /><br>Hibernate</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=ansible" width="65" /><br>Ansible</td>
-    <td align="center" width="116">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python</td>
+    <td align="center" width="116"><a href="#macropower-tech"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" /></a><br>Python</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=redis" width="65" /><br>Redis</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=kafka" width="65" /><br>Kafka</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=elasticsearch" width="65" /><br>Elasticsearch</td>
@@ -58,26 +53,14 @@ I specialize in scalable banking systems and distributed services using Microser
   </tr>
   <tr>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=postgres" width="65" /><br>Postgres</td>
-     <td align="center" width="116"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git</td>
-       <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=rabbitmq" width="65" /><br>RabbitMq</td>
+    <td align="center" width="116"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" /><br>Git</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" /><br>GraphQL</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=mongodb" width="65" /><br>MongoDB</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=rabbitmq" width="65" /><br>RabbitMQ</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=terraform" width="65" /><br>Terraform</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=maven" width="65" /><br>maven</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=gitlab" width="65" /><br>Gitlab</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=gradle" width="65" /><br>gradle</td>
-    
-    
-    
-    <td align="center" colspan="6"></td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=maven" width="65" /><br>Maven</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=gitlab" width="65" /><br>GitLab</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=gradle" width="65" /><br>Gradle</td>
   </tr>
 </table>
 
@@ -101,22 +84,20 @@ I specialize in scalable banking systems and distributed services using Microser
 
 ## ⚡ GitHub Stats
 
- <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GavinRuff007&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinRuff007&layout=compact&theme=midnight-purple" />
-</p> 
-
 <p align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" />
+  </a>
+
+  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GavinRuff007&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinRuff007&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;" />
 </p>
 
 <h3 align="center">🤝 Always open for collaborations — star, fork, or reach out!</h3>
