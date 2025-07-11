@@ -29,7 +29,8 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" /><br>C++17</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br>Docker</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" /><br>Kubernetes</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="65" /><br>Git</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS</td>
+   
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>CI/CD</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="65" /><br>Linux</td>
   </tr>
@@ -45,7 +46,7 @@ I specialize in scalable banking systems and distributed services using Microser
   </tr>
   <tr>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br>Grafana</td>
-    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS</td>
+     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="65" /><br>Git</td>
     <td align="center" colspan="6"></td>
   </tr>
 </table>
