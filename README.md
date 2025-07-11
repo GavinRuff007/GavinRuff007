@@ -99,6 +99,10 @@ I specialize in scalable banking systems and distributed services using Microser
 
 ---
 
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
+
 <h3 align="center">🤝 Always open for collaborations — star, fork, or reach out!</h3>
 
 <p align="right">
