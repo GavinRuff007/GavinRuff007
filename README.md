@@ -31,7 +31,7 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" /><br>Kubernetes</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>CI/CD</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="65" /><br>Linux</td>
+    elasticsearch
   </tr>
   <tr>
     <td align="center" width="116"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br>Spring Boot</td>
@@ -40,7 +40,7 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://img.shields.io/badge/Gin-GO%20Web%20Framework-00ADD8?style=for-the-badge" /><br>Gin</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/GORM-ORM%20for%20Go-375EAB?style=for-the-badge" /><br>GORM</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=kafka" width="65" /><br>kafka</td>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" /><br>ELK Stack</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=elasticsearch" width="65" /><br>elasticsearch</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /><br>Prometheus</td>
   </tr>
   <tr>
