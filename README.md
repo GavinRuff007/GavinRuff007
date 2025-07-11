@@ -19,9 +19,9 @@ I specialize in designing scalable banking services and distributed systems usin
 > 💡 *"Code clean. Think big. Ship scalable."*
 
 <div>
-   <img src="https://api.visitorbadge.io/api/visitors?path=parsaeftekharmanes&label=Profile%20Views&countColor=%238A2BE2" />
-   <img alt="Followers" src="https://img.shields.io/github/followers/parsaeftekharmanes?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
-   <img alt="Stars" src="https://img.shields.io/github/stars/parsaeftekharmanes?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+   <img src="https://api.visitorbadge.io/api/visitors?path=GavinRuff007&label=Profile%20Views&countColor=%238A2BE2" />
+   <img alt="Followers" src="https://img.shields.io/github/followers/GavinRuff007?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+   <img alt="Stars" src="https://img.shields.io/github/stars/GavinRuff007?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
 </div>
 
 ---
