@@ -37,7 +37,11 @@ I specialize in scalable banking systems and distributed services using Microser
   <tr>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=hibernate" width="65" /><br>spring</td><br>hibernate</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=ansible" width="65" /><br>spring</td><br>hibernate</td><br>ansible</td>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/Gin-GO%20Web%20Framework-00ADD8?style=for-the-badge" /><br>Gin</td>
+    <td align="center" width="116">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/GORM-ORM%20for%20Go-375EAB?style=for-the-badge" /><br>GORM</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=kafka" width="65" /><br>kafka</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=elasticsearch" width="65" /><br>elasticsearch</td>
