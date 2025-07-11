@@ -65,6 +65,10 @@ I specialize in scalable banking systems and distributed services using Microser
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
     <td align="center" colspan="6"></td>
   </tr>
 </table>
