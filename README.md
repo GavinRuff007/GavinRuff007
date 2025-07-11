@@ -71,9 +71,9 @@ I specialize in designing scalable banking services and distributed systems usin
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parsaeftekharmanes&show_icons=true&theme=midnight-purple" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parsaeftekharmanes&theme=midnight-purple"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsaeftekharmanes&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GavinRuff007&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GavinRuff007&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinRuff007&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
