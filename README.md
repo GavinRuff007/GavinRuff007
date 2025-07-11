@@ -41,7 +41,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GavinRuff007&show_icons=true&theme=radical)
 
 ---
 
