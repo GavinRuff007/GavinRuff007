@@ -31,7 +31,8 @@ I specialize in scalable banking systems and distributed services using Microser
 
 
 ## 🧠 Tech Stack
-<br>
+
+&nbsp;
 
 <table align="center">
   <tr>
@@ -69,6 +70,7 @@ I specialize in scalable banking systems and distributed services using Microser
   </tr>
 </table>
 
+&nbsp;
 ---
 
 ## 📫 How to Reach Me
