@@ -16,6 +16,15 @@ Back-end Developer | Java • Go • C++ | DevOps & Cloud | Open to Collaboratio
 Hi, I'm <strong>Parsa Eftekharmanes</strong> — a Computer Science graduate from <strong>Iran University of Science and Technology</strong> and a passionate Back-end Developer.  
 I specialize in scalable banking systems and distributed services using Microservices, SOA, and Cloud-native architectures.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Languages**: Java (Core, JavaFX), Go, C++17  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🚀 **Frameworks**: Spring, Spring Boot, Jakarta EE, Gin  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🧱 **Architecture**: Microservices, SOA, Monolith, Clean Architecture  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ☁️ **DevOps & Cloud**: Docker, Azure Dev, Docker Swarm, Kubernetes, Ansible, Jenkins, Nexsus, Terraform   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📡 **Message Brokers & Logs**: Kafka, RabbitMQ, ELK Stack (Elasticsearch, Logstash, Kibana)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📈 **Monitoring & Observability**: Prometheus, Grafana  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔐 **Other Expertise**: Distributed Systems, Cloud-Native Systems, Service Discovery, Load Balancing  
+
+
 > 💡 *"Code clean. Think big. Ship scalable."*
 
 &nbsp;
