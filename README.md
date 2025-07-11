@@ -70,6 +70,13 @@ I specialize in scalable banking systems and distributed services using Microser
       <br>MongoDB
     </td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=rabbitmq" width="65" /><br>RabbitMq</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=terraform" width="65" /><br>Terraform</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=maven" width="65" /><br>maven</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=gitlab" width="65" /><br>Gitlab</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=gradle" width="65" /><br>gradle</td>
+    
+    
+    
     <td align="center" colspan="6"></td>
   </tr>
 </table>
