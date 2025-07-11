@@ -89,12 +89,10 @@ I specialize in scalable banking systems and distributed services using Microser
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=GavinRuff007&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=4b5563&hide_border=true&theme=prussian&show=reviews,prs_merged,prs_merged_percentage" alt="Sunshine's GitHub stats"/>
   <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GavinRuff007&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GavinRuff007&show_icons=true&theme=midnight-purple" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinRuff007&layout=compact&theme=midnight-purple" />
 </p>
 
