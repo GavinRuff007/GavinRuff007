@@ -45,7 +45,7 @@ I specialize in scalable banking systems and distributed services using Microser
   </tr>
   <tr>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br>Grafana</td>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/Cloud-Native-4FC08D?style=for-the-badge&logo=cloudflare&logoColor=white" /><br>Cloud-Native</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS</td>
     <td align="center" colspan="6"></td>
   </tr>
 </table>
