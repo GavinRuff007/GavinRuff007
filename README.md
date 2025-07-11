@@ -39,7 +39,7 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge&logo=java&logoColor=white" /><br>JavaFX</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Gin-GO%20Web%20Framework-00ADD8?style=for-the-badge" /><br>Gin</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/GORM-ORM%20for%20Go-375EAB?style=for-the-badge" /><br>GORM</td>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /><br>Kafka</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=kafka" width="65" /><br>kafka</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" /><br>ELK Stack</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /><br>Prometheus</td>
   </tr>
