@@ -35,8 +35,8 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=spring" width="65" /><br>spring</td>
   </tr>
   <tr>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=hibernate" width="65" /><br>spring</td><br>hibernate</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=ansible" width="65" /><br>spring</td><br>hibernate</td><br>ansible</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=hibernate" width="65" /><br>hibernate</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=ansible" width="65" /><br>ansible</td>
     <td align="center" width="116">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -45,7 +45,7 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://img.shields.io/badge/GORM-ORM%20for%20Go-375EAB?style=for-the-badge" /><br>GORM</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=kafka" width="65" /><br>kafka</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=elasticsearch" width="65" /><br>elasticsearch</td>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /><br>Prometheus</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=prometheus" width="65" /><br>prometheus</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>CI/CD</td>
   </tr>
   <tr>
