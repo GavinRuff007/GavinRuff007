@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Parsa;Back-end+Developer ;Java%2C+Go+%26+C%2B%2B+Developer;DevOps+Enthusiast;Distributed+Systems+Lover;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Parsa;Back-end+Developer;Java%2C+Go+%26+C%2B%2B+Developer;DevOps+Enthusiast;Distributed+Systems+Lover;Welcome+to+my+GitHub!" />
 </p>
 
 <h4 align="center">
