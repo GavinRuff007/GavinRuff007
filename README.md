@@ -26,12 +26,6 @@ I specialize in scalable banking systems and distributed services using Microser
 
 > 💡 *"Code clean. Think big. Ship scalable."*
 
-<p align="center">
-  <i>&copy; <a href="https://github.com/GavinRuff007/">Parsa Eftekharmanesh </a> 2024 - Present</i><br>
-  <i>Licensed under <a href="https://github.com/GavinRuff007/GavinRuff007/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
-  <a href="https://octodex.github.com/swagtocat/"><img src="assets/swagtocat.png" width="60" height="60" /></a><br>
-  <kbd>Thanks for visiting 🙂</kbd>
-</p>
 
 
 ---
