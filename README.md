@@ -57,7 +57,7 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="65" /><br>Linux</td>
   </tr>
   <tr>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br>Grafana</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=postgres" width="65" /><br>Postgres</td>
      <td align="center" width="116"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git</td>
