@@ -19,8 +19,8 @@ I specialize in scalable banking systems and distributed services using Microser
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Languages**: Java (Core, JavaFX), Go, C++17  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🚀 **Frameworks**: Spring, Spring Boot, Jakarta EE, Gin  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🧱 **Architecture**: Microservices, SOA, Monolith, Clean Architecture  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ☁️ **DevOps & Cloud**: Docker, Azure Dev, Docker Swarm, Kubernetes, Ansible, Jenkins, Nexsus, Terraform
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📡 **Message Brokers & Logs**: Kafka, ELK Stack
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ☁️ **DevOps & Cloud**: Docker, Azure Dev, Docker Swarm, Kubernetes, Ansible, Jenkins, Nexsus, Terraform  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📡 **Message Brokers & Logs**: Kafka, ELK Stack  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📈 **Monitoring & Observability**: Prometheus, Grafana  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔐 **Other Expertise**: Distributed Systems, Cloud-Native Systems, Service Discovery, Load Balancing  
 
