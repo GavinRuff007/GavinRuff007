@@ -31,12 +31,10 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" /><br>Kubernetes</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>CI/CD</td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
-      <br>Nginx
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" /><br>Nginx</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=spring" width="65" /><br>spring</td>
   </tr>
   <tr>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br>Spring Boot</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Jakarta%20EE-FF6C37?style=for-the-badge&logo=jakartaee&logoColor=white" /><br>Jakarta EE</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge&logo=java&logoColor=white" /><br>JavaFX</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Gin-GO%20Web%20Framework-00ADD8?style=for-the-badge" /><br>Gin</td>
