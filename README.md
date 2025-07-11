@@ -24,7 +24,7 @@ I specialize in scalable banking systems and distributed services using Microser
 
 <table align="center">
   <tr>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=java" width="65" /><br>Java</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" /><br>Java</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=go" width="65" /><br>Go</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" /><br>C++17</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br>Docker</td>
