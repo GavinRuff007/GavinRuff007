@@ -47,6 +47,7 @@ I specialize in scalable banking systems and distributed services using Microser
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=elasticsearch" width="65" /><br>Elasticsearch</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=prometheus" width="65" /><br>Prometheus</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=jenkins" width="65" /><br>Jenkins</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="65" /><br>Linux</td>
   </tr>
   <tr>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br>Grafana</td>
