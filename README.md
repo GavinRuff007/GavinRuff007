@@ -93,9 +93,6 @@ I specialize in scalable banking systems and distributed services using Microser
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" />
-  </a>
 
   <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GavinRuff007&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   
