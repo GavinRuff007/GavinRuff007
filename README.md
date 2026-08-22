@@ -80,7 +80,7 @@ I specialize in scalable banking systems and distributed services using Microser
   <a href="mailto:parsa10007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/GavinRuff007">
+  <a href="https://github.com/ParsaEfte">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
@@ -94,9 +94,9 @@ I specialize in scalable banking systems and distributed services using Microser
 
 <p align="center">
 
-  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GavinRuff007&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ParsaEfte&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinRuff007&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaEfte&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
